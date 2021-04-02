@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4d34e69-b2f3-4306-9cec-8ed816c599d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../L6/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../L6/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../L6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L6/out/production/L6/CoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L6/out/production/L6/EmptyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L6/out/production/L6/EmptyListE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L6/out/production/L6/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L6/out/production/L6/NonEmptyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L6/out/production/L6/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L6/out/test/L6/CoinChangeTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1islIFV98l57BrUkdAZQvk96p1L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4d34e69-b2f3-4306-9cec-8ed816c599d6" name="Default Changelist" comment="" />
+      <created>1602704098981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602704098981</updated>
+      <workItem from="1602704100242" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

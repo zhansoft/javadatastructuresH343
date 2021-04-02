@@ -1,0 +1,20 @@
+
+* Understand the code. Ask questions on Piazza!
+
+* Testing correctness:
+
+  - Develop test cases following the guidelines below:
+       * construct lists of varying lengths
+       * check that the result has no duplicates
+       * the check should take constant time O(1) and not take time
+       proportional to the length of the list O(n)
+  - Hint 1: use lists with lots of duplicates; the resulting list will be short
+  - Hint 2: take a small number of samples from the resulting list and confirm 
+    they are distinct
+
+* Testing efficiency:
+
+  - Time the execution time of the five methods for lists of varying lengths and
+  confirm that the numbers fit the expected complexity bounds which should
+  be O(n), O(n log n), and O(n^2).
+
